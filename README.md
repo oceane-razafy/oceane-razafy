@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**oceane-razafy/oceane-razafy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Océane 😁 !
 
-Here are some ideas to get you started:
+- 💼 Currently studying at 42 School in Paris
+- 🌱 Highly interested in Web and Mobile Development
+- 🎓 Graduated with a bachelor's degree in Economics and Financial Engineering from Paris Dauphine University
+- ⚡ Other interests: Sport, Music, Travel, Photography
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💻 I’m currently working on minishell, a school project which involves creating a simplified shell program that can execute basic commands, handle input/output redirection, implement built-in commands, and support environment variables.
+
+💬 Feel free to connect with me:
+- LinkedIn: https://fr.linkedin.com/in/oceanerazafy/
+- Email: oceane.razafy@outlook.fr
+
+Thanks for visiting ! 😉
