@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Océane 😁 !
 - ⚡ Other interests: Sport, Music, Travel, Photography
 
 
-💻 I’m currently working on minishell, a school project which involves creating a simplified shell program that can execute basic commands, handle input/output redirection, implement built-in commands, and support environment variables.
+💻 Last project I did was minishell, a school project which involves creating a simplified shell in C that can execute basic commands, handle input/output redirection, implement built-in commands, and support environment variables.
 
 💬 Feel free to connect with me:
 - LinkedIn: https://fr.linkedin.com/in/oceanerazafy/
